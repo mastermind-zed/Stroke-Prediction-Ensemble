@@ -2,7 +2,7 @@
 ## A Comparative Study of Oversampling Techniques and Ensemble Learning Models
 
 ### 🎓 Project Overview
-This repository contains the complete experimental framework and results for my MSc thesis. The study addresses the critical challenge of **class imbalance in clinical healthcare data**, specifically applied to the prediction of strokes.
+This repository contains the complete experimental framework and results. The study addresses the critical challenge of **class imbalance in clinical healthcare data**, specifically applied to the prediction of strokes.
 
 ### 🎯 Research Objectives
 1.  **Analyze** the impact of 5 oversampling techniques (ROS, SMOTE, ADASYN, etc.) on class distribution.
