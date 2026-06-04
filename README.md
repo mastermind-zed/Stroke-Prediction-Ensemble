@@ -1,7 +1,7 @@
 # Optimizing Imbalanced Clinical Data for Stroke Prediction
 ## A Comparative Study of Oversampling Techniques and Ensemble Learning Models
 
-### 🎓 MSc Thesis Project Overview
+### 🎓 Project Overview
 This repository contains the complete experimental framework and results for my MSc thesis. The study addresses the critical challenge of **class imbalance in clinical healthcare data**, specifically applied to the prediction of strokes.
 
 ### 🎯 Research Objectives
